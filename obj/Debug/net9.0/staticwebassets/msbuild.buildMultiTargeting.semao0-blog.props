@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/semao0-blog.props" />
+</Project>
